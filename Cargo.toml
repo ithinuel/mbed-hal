@@ -1,0 +1,6 @@
+[package]
+name = "mbed-hal"
+version = "0.1.0"
+authors = ["Wilfried Chauveau <wilfried.chauveau@ithinuel.me>"]
+
+[dependencies]
